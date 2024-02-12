@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>WeMod Pro Unlocker - CLI</h1>
+  <h1>w3m0d-pr0-unl0ck3r - CLI</h1>
   <h4>This program patches the WeMod app to think you're a pro subscriber.</h4>
-  <img src="https://img.shields.io/github/v/release/bennett-sh/wemod-pro-unlocker.svg" alt="Latest version">
-  <img src="https://img.shields.io/github/downloads/bennett-sh/wemod-pro-unlocker/total?label=GitHub%20Downloads" alt="Downloads on GitHub">
-  <img src="https://img.shields.io/crates/l/wemod-pro-unlocker?color=green" alt="License">
+  <!-- <img src="https://img.shields.io/github/v/release/delabarra/w3m0d-pr0-unl0ck3r.svg" alt="Latest version">
+  <img src="https://img.shields.io/github/downloads/delabarra/w3m0d-pr0-unl0ck3r/total?label=GitHub%20Downloads" alt="Downloads on GitHub"> -->
+  <img src="https://img.shields.io/crates/l/w3m0d-pr0-unl0ck3r?color=green" alt="License"> 
 
 
   <img src="https://img.shields.io/badge/rust-2021-orange?logo=rust" alt="Rust 2021">
-  <img src="https://img.shields.io/github/languages/code-size/bennett-sh/wemod-pro-unlocker?color=yellow" alt="Code Size"><br/><br/>
+  <img src="https://img.shields.io/github/languages/code-size/delabarra/w3m0d-pr0-unl0ck3r?color=yellow" alt="Code Size"><br/><br/>
   <img width="256" src="https://user-images.githubusercontent.com/110846042/204567385-4df3007c-7a63-40fd-9feb-f9f36aa43030.png" alt="WeMod Pro Unlocker Logo">
 </div>
 
@@ -17,9 +17,8 @@
 
 ## ⬇️ Installation
 For installation, you have three options.
-1. Download the pre-built executable [here](https://github.com/bennett-sh/wemod-pro-unlocker/releases/latest/download/wemod-pro-unlocker.exe)
-2. Install it using cargo: ```cargo install wemod-pro-unlocker```
-3. (not recommended) Manually build it from source
+1. Install it using cargo: ```cargo install wemod-pro-unlocker```
+2. Manually build it from source.
 
 <br/>
 

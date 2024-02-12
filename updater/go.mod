@@ -1,4 +1,4 @@
-module github.com/bennett-sh/wemod-pro-unlocker-updater
+module github.com/delabarra/wemod-pro-unlocker-updater
 
 go 1.19
 

@@ -17,7 +17,7 @@ pub fn patch_pro_mode(extracted_resource_dir: PathBuf, opts: &HashMap<String, St
 
         if contents.contains(r#""application/json"===e.headers.get("Content-Type")"#) {
             let app_bundle_patch = include_str!("fetchIntercept.js").to_string().replace(
-                "/*{%account%}*/",
+                "{%account%}",
                 if opts.contains_key("account") {
                     opts.get("account").unwrap()
                 } else {
@@ -59,7 +59,6 @@ pub fn patch_creator_mode(extracted_resource_dir: PathBuf) {
         let contents = contents_result.unwrap();
 
         if contents.contains("get isCreator(){") {
-            println!("creator");
             match fs::write(
                 &app_bundle,
                 contents.replace("get isCreator(){", "get isCreator(){return true;"),

@@ -4,6 +4,7 @@
   let trig = () => {
     document.querySelectorAll('promotion-banner').forEach(element => element.remove());
     document.querySelectorAll('remote-button').forEach(element => element.remove());
+    document.querySelectorAll('.objectives').forEach(element => element.remove());
   };
 
   setInterval(() => trig(), 1000);

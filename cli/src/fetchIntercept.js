@@ -7,8 +7,8 @@ if ("application/json" === e.headers.get("Content-Type")) {
         type: 'pro'
       },
       ...{
-        /*{%account%}*/
-        username: '🔓WeMod Pro Unlocker'
+        {%account%}
+        /*username: '🔓WeMod Pro Unlocker'*/
       }
     }
   }

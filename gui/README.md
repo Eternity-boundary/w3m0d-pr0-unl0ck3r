@@ -1,15 +1,13 @@
 <div align="center">
-  <h1>WeMod Pro Unlocker - GUI</h1>
+  <h1>w3m0d-pr0-unl0ck3r - GUI</h1>
   <h4>This program patches the WeMod app to think you're a pro subscriber.</h4>
-  <img src="https://img.shields.io/github/downloads/bennett-sh/wemod-pro-unlocker/total" alt="Downloads on GitHub">
-  <img src="https://img.shields.io/github/v/release/bennett-sh/wemod-pro-unlocker.svg" alt="Latest version">
-  <img src="https://img.shields.io/crates/l/wemod-pro-unlocker?color=green" alt="License">
-
-
+  <!-- <img src="https://img.shields.io/github/downloads/delabarra/w3m0d-pr0-unl0ck3r/total" alt="Downloads on GitHub"> 
+  <img src="https://img.shields.io/github/v/release/delabarra/w3m0d-pr0-unl0ck3r.svg" alt="Latest version"> -->
+  <img src="https://img.shields.io/github/license/delabarra/w3m0d-pr0-unl0ck3r" alt="License">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet" alt=".NET">
   <img src="https://img.shields.io/badge/Windows-10+11-0078D4?logo=windows-11" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/github/languages/code-size/bennett-sh/wemod-pro-unlocker?color=yellow" alt="Code Size"><br/><br/>
-  <img width="256" src="https://user-images.githubusercontent.com/110846042/204567385-4df3007c-7a63-40fd-9feb-f9f36aa43030.png" alt="WeMod Pro Unlocker Logo">
+  <img src="https://img.shields.io/github/languages/code-size/delabarra/w3m0d-pr0-unl0ck3r?color=yellow" alt="Code Size"><br/><br/>
+  <img width="256" src="https://user-images.githubusercontent.com/110846042/204567385-4df3007c-7a63-40fd-9feb-f9f36aa43030.png" alt="w3m0d-pr0-unl0ck3r">
 </div>
 
 #### [Back to the main page](../README.md)

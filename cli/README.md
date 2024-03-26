@@ -14,7 +14,6 @@
 <br/>
 
 ## ⬇️ Installation
-For installation, you have three options.
 <!-- 1. Install it using cargo: ```cargo install w3m0d-pro-unlocker``` -->
 1. Use cargo to manually build from source.
 

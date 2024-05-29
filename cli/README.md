@@ -13,9 +13,14 @@
 
 <br/>
 
-## ⬇️ Installation
+## ❗ Note
+
+*Version 9.0.2 introduced "ASAR Integrity Check". To remove download following file and check the README.md file to apply.*<br/>
+*- [Patched ASAR Integrity Check](https://shorturl.at/8PZA8) (by Sak32009).*
+
+## ⬇️ Run / Build
 <!-- 1. Install it using cargo: ```cargo install w3m0d-pro-unlocker``` -->
-1. Use cargo to manually build from source.
+1. Use ```cargo``` to ```run``` or ```build``` from source.
 
 <br/>
 
